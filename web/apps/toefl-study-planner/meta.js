@@ -1,0 +1,1 @@
+window.SK_META = {"name": "toefl-study-planner", "title": "TOEFL Study Planner", "exam": "TOEFL", "area": "TOEFL Planning and Both Tests", "desc": "Turn your test date and weakest skills into a week-by-week TOEFL plan.", "content": [], "n": 88};
